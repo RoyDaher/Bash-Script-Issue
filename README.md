@@ -22,7 +22,9 @@ I am asked to add some users with all their info (password , id ,group id ...) p
    ```
    
 This is the content of the input file "user" :
+```
 charbel:password:1001:1001:Charbel Haddad:/home/charbel:/bin/bash:0:30:15:7:y
 assil:p@ssw0rd:1002:1002:Assil:/home/assel:/bin/bash:0:30:10:5:n
 marwan:p@ssw0rd:1003:1003:Marwan Ghantous:/home/marwan:/bin/bash:0:50:30:7:n 
 michel:password:1004:1004:Michel:/home/michel:/bin/bash:1:30:10:5:y
+```
